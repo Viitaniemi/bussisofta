@@ -1,11 +1,11 @@
-# mobiiliprojekti-bussisofta
+#Mockup
 
-## Mockupin ajaminen:
+1. Download Files
 
-1. -Lataa tiedostot-
+2. Open container.html
 
-2. -Avaa /Mockup/Container.html-
-# 
-1. Lataa tiedostot
+#bussisofta
 
-2. Buildaa android studiolla
+1. Download Files
+
+2. Build using Android Studio, requires older SDK version
